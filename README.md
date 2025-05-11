@@ -32,5 +32,11 @@ After several hours of printing ASA using an enclosure, I inspected the spacers.
 - The fender washer is giving the stability needed. It will be a permanent addition to this modification.
 - I would like to test with some spongier silicone
 
+## BOM
+- 4 x Fiber washer
+- 1 x 0.125 inch sheet of silicone. If doubling, find a 0.25 inch thick sheet or washer.
+- 4 x metal fender washers
+
+Note: The ID of the washers needs to be 4mm.  
 
 
