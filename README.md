@@ -39,4 +39,14 @@ After several hours of printing ASA using an enclosure, I inspected the spacers.
 
 Note: The ID of the washers needs to be 4mm.  
 
+## Version 2 - Untested
+To save on costs, I redesigned the spacer to use the original silicone spacer most of us have been using for years. 
+
+I have not tested these yet, so I don't know if the IS performance changes. I have been busy printing other fun things, so I have not wanted to pull the bed up again and re-tram. Try it out and get back to me.
+
+The installation is the same except you will want the smaller hole up on top.
+
+![image](https://github.com/user-attachments/assets/cdc80bd3-775d-4c0a-9e62-25833e003e54)
+
+
 
