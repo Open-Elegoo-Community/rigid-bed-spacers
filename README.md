@@ -21,7 +21,7 @@ Fusion Model:
 Input Shaping with aluminum/silicone/fiber:
 ![image](https://github.com/user-attachments/assets/d35fe255-1e2c-4696-9c63-de679106c35f)
 
-I needed a way to have the spacers the height I needed without having to order them. They needed to be resistant to heat and be rigid. Why not print them? I created a quick model in Fusion and printed it in ASA. I also added silicone washer between the spacer and the fiber washer.
+I needed a way to have the spacers the height I needed without having to order them. They needed to be resistant to heat and be rigid. Why not print them? I created a quick model in Fusion and printed it in ASA. I also added a silicone washer between the spacer and the fiber washer.
 
 Input Shaping with ASA/silicone/fiber:
 ![image](https://github.com/user-attachments/assets/161dd943-3e31-4c17-af58-3659359ab71f)
@@ -44,9 +44,10 @@ To save on costs, I redesigned the spacer to use the original silicone spacer mo
 
 I have not tested these yet, so I don't know if the IS performance changes. I have been busy printing other fun things, so I have not wanted to pull the bed up again and re-tram. Try it out and get back to me.
 
-The installation is the same except you will want the smaller hole up on top.
+The installation is the same, except you will want the smaller hole up on top.
 
 ![image](https://github.com/user-attachments/assets/cdc80bd3-775d-4c0a-9e62-25833e003e54)
 
-
+## How tight?
+As a rule of thumb you should leave about 1mm clearance between any obstruction (like belt clips) and the insulation of the bed.
 
