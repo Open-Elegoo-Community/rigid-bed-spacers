@@ -4,7 +4,11 @@ Status: Experimental
 ## Proposal
 While working on an AWD SYNC, I observed that the Y-axis base plate IS graph is rock solid. This led me to think that the bed is a shaking mess. From experience, we know that replacing the stock springs with silicone spacers provided better stability, but there was still a lot of room for improvement. A leading hint to this was that SilencedFrosted from the Elegoo Discord mentioned he used aluminum spacers, which he filed down to the appropriate lengths after repetitive testing.
 
-I propose to replace the spacers with something that anchors better to the base plate, not just screws and give it some room for adjustment. 
+IS graph from the Y-axis base plate
+![image](https://github.com/user-attachments/assets/ca6e5fa1-00c9-4a48-8f00-062937072bfb)
+
+
+I propose replacing the spacers with something that anchors better to the base plate, rather than just using screws, and providing some room for adjustment. 
 
 ## Testing
 
